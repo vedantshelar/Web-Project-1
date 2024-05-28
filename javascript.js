@@ -10,6 +10,6 @@ QRCODE.src=url;
 QRCODE.style.display="block";
 }else{
     alert("Enter Something is must")
-}
+} 
 
 })
